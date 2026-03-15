@@ -1,0 +1,16 @@
+names:
+- pedestrian
+- people
+- bicycle
+- car
+- van
+- truck
+- tricycle
+- awning-tricycle
+- bus
+- motor
+nc: 10
+path: C:\Users\adity\Desktop\college stuff\sem3\dL\lab4\dataset
+test: test/images
+train: train/images
+val: val/images
