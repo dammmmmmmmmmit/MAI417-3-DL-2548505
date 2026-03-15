@@ -1,4 +1,4 @@
-# MAI417-3 — Deep Learning Lab Portfolio
+# MAI417-3 — Deep Learning Lab
 
 **Course**: MAI417-3 | Deep Learning  
 **Student ID**: 2548505
